@@ -142,6 +142,7 @@ plt.show()
 
 # r^2 matrix
 from sklearn.metrics import r2_score
+#working for pushand pull
 
 
 # In[25]:
